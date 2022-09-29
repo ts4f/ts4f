@@ -1,6 +1,6 @@
+[![@panoscs's Holopin board](https://holopin.io/api/user/board?user=panoscs)](https://holopin.io/@panoscs)
 <h1 align="center">Hi 👋, I'm Panagiotis</h1>
 <h3 align="center">A Junior Software Engineer @ GER</h3>
-<img align="right" alt="coding" width="300" src="https://i.gifer.com/39Cg.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panoscs&label=Profile%20views&color=0e75b6&style=flat" alt="panoscs" /> </p>
 
@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panoscs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="panoscs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panoscs&show_icons=true&theme=tokyonight&locale=en" alt="panoscs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panoscs&" alt="panoscs" /></p>
