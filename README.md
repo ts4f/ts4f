@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panoscs&label=Profile%20views&color=0e75b6&style=flat" alt="panoscs" /> </p>
 
-- 🔭 I’m currently working on [Building my Website](https://github.com/PanosCS/fuzzy-happiness)
+<!-- - 🔭 I’m currently working on [Building my Website](https://github.com/PanosCS/fuzzy-happiness) -->
 
-- 🌱 I’m currently learning **Kubernetes, Astro**
+<!-- - 🌱 I’m currently learning **Kubernetes, Astro** -->
 
 - 📄 Know about my experiences [https://www.panagiotistsiavos.com/](https://www.panagiotistsiavos.com/)
 
