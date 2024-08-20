@@ -1,4 +1,4 @@
-[![@panoscs's Holopin board](https://holopin.io/api/user/board?user=panoscs)](https://holopin.io/@panoscs)
+
 <h1 align="center">Hi 👋, I'm Panagiotis</h1>
 <h3 align="center">S.E. @ GER</h3>
 
@@ -8,7 +8,6 @@
 
 <!-- - 🌱 I’m currently learning **Kubernetes, Astro** -->
 
-- 📄 Know about my experiences [https://www.panagiotistsiavos.com/](https://www.panagiotistsiavos.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
