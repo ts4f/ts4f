@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on [Building my Website](https://github.com/PanosCS/fuzzy-happiness) -->
 
-<!-- - 🌱 I’m currently learning **Kubernetes, Astro** -->
+- 🌱 Currently **Kotlin, Jetpack Compose** 
 
 
 <h3 align="left">Connect with me:</h3>
